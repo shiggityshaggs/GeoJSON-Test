@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "TestGeo",
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -25, 25 ] } }
+]
+}
